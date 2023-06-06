@@ -4,5 +4,6 @@
 - [x] **[Added android/adb.md](https://github.com/TechnologyMediaorg/LearnSheet/blob/main/android/adb.md)**
 - [x] **[Added android/decompilers.md](https://github.com/TechnologyMediaorg/LearnSheet/blob/main/android/decompilers.md)**
 - [x] **[Added android/scrcpy.md](https://github.com/TechnologyMediaorg/LearnSheet/blob/main/android/scrcpy.md)**
+- [x] **[Added linux/top50s.md](https://github.com/TechnologyMediaorg/LearnSheet/blob/main/linux/top50s.md)** 
 > - **Team**
 > TechnologyMedia org
