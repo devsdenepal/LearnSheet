@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://avatars.githubusercontent.com/u/128064750?s=200&v=4" height="50px"><a href="#">   TechnologyMedia.org</a></h1>
+<h1 align="center"><img src="https://avatars.githubusercontent.com/u/128064750?s=200&v=4" height="50px"><a href="#">  TechnologyMedia.org</a></h1>
 
 <h1 id="network-based-vulnerability-assessment-and-nmap-guide-for-servers">Network-Based Vulnerability Assessment and Nmap Guide for Servers</h1>
 <h2 id="step-1-install-nmap">Step 1: Install Nmap</h2>
@@ -11,6 +11,8 @@
 <blockquote>
 <p>This command will scan the target server for open ports and display the services running on each port.</p>
 </blockquote>
+<h1 align="center"><img src="https://avatars.githubusercontent.com/u/128064750?s=200&v=4" height="50px"><a href="#">   TechnologyMedia.org</a></h1>
+
 <h2 id="step-4-perform-service-version-detection">Step 4: Perform Service Version Detection</h2>
 <blockquote>
 <p>To identify the version and type of services running on the open ports, run the following Nmap command:
@@ -23,6 +25,8 @@ Nmap will analyze the services and attempt to determine their versions. This inf
 <blockquote>
 <p>Nmap will perform operating system fingerprinting based on network responses, providing insights into potential vulnerabilities related to the identified operating system.</p>
 </blockquote>
+<h1 align="center"><img src="https://avatars.githubusercontent.com/u/128064750?s=200&v=4" height="50px"><a href="#">   TechnologyMedia.org</a></h1>
+
 <h2 id="step-6-utilize-vulnerability-scanning-scripts">Step 6: Utilize Vulnerability Scanning Scripts</h2>
 <p>Nmap&#39;s NSE (Nmap Scripting Engine) provides numerous scripts that can be used for vulnerability scanning. Run specific scripts against the target server using the following command:
 <code>nmap --script=&lt;script name&gt; &lt;target IP or hostname&gt;</code>
